@@ -22,5 +22,5 @@ steps:
     csmFile: 'CreateWebApp/azuredeploy.json'
     overrideParameters: '-projectName AzureRmP -linkedTemplateUri https://raw.githubusercontent.com/ImpulseTechnovation/AzureRmP/master/CreateWebApp/linkedStorageAccount.json'
     deploymentMode: 'Incremental'
-    deploymentName: 'DeployPipelineTemplate'
+    deploymentName: 'DPTemplate'
     
