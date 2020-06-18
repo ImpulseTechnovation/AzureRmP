@@ -16,7 +16,7 @@ steps:
     azureResourceManagerConnection: 'AzureRmP-conn'
     subscriptionId: '621f8443-9352-4e05-9162-644d6a579445'
     action: 'Create Or Update Resource Group'
-    resourceGroupName: 'azurermp-rg'
+    resourceGroupName: 'azurermp2-rg'
     location: 'Central US'
     templateLocation: 'Linked artifact'
     csmFile: 'CreateWebApp/azuredeploy.json'
